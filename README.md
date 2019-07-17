@@ -1,5 +1,5 @@
 # STLF
-Machine learning for time-series electric power load forecasting
+Machine learning for time-series power load forecasting
 
 **Ausgrid Substation Data**
 Ausgrid, “Distribution zone substation information data to share,” http://www.ausgrid.com.au/Common/About-us/Corporate-information/Data-to-share/DistZone-subs.aspx#.WYD6KenauUl, accessed May, 2019.
