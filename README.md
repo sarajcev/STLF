@@ -1,9 +1,7 @@
-# STLF
-Machine learning for time-series power load forecasting
+# STLF - Short-term Load Forecasting
+Machine learning for time-series electric power load forecasting
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
-
-Short-term load forecasting with [scikit-learn](https://scikit-learn.org/stable/)
 
 **Ausgrid Substation Data**
 Ausgrid, “Distribution zone substation information data to share,” http://www.ausgrid.com.au/Common/About-us/Corporate-information/Data-to-share/DistZone-subs.aspx#.WYD6KenauUl, accessed May, 2019.
